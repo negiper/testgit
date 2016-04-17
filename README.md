@@ -5,4 +5,6 @@ This is my test repository.
 Added a python file: hello.py
 
 feature-A:
-New branch README.md added.
+New branch feature-A added.
+fix-B:
+new branch fix-B added
