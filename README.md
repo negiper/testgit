@@ -8,3 +8,5 @@ feature-A:
 New branch feature-A added.
 fix-B:
 new branch fix-B added
+feature-C:
+New branch feature-C added.
